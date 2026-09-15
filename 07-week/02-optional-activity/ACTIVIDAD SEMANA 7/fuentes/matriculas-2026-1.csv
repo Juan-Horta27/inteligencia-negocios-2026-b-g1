@@ -1,0 +1,5 @@
+id_tiempo,id_estudiante,id_programa,id_sede,semestre_cursado,matriculado,creditos_inscritos,valor_matricula
+20261,E-001,P-07,S-02,3,1,17,3510000
+20261,E-002,P-07,S-02,3,1,18,3510000
+20261,E-004,P-07,S-03,2,1,16,3510000
+20261,E-006,P-12,S-02,3,1,18,3430000
